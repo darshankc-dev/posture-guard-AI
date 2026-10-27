@@ -1,0 +1,9 @@
+{
+  "name": "PostureGuard AI - Desktop Posture Monitor",
+  "description": "Native Windows desktop posture monitoring application using PySide6, OpenCV, and MediaPipe with real-time pose tracking, calibration, and smart alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

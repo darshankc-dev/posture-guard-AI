@@ -1,0 +1,25 @@
+# PostureGuard AI - Python Dependencies for Windows Desktop Application
+# Tested on Python 3.10 and 3.11 64-bit on Windows 10/11
+
+# GUI Framework (Qt 6 for Python)
+PySide6>=6.5.0,<6.8.0
+
+# Computer Vision & Camera Access
+opencv-python>=4.8.0.76,<5.0.0
+
+# Body Landmark Estimation (Google MediaPipe)
+mediapipe>=0.10.9,<0.10.15
+
+# Numerical & Geometric Calculations
+numpy>=1.24.0,<2.0.0
+
+# Windows Audio (uses built-in winsound or QSoundEffect; optional cross-platform helper)
+# Optional sound library fallback for non-Windows dev environments:
+simpleaudio>=1.0.4; platform_system != "Windows"
+
+# Packaging for Windows Executable
+pyinstaller>=6.3.0,<7.0.0
+
+# Unit Testing & Quality Assurance
+pytest>=7.4.0
+pytest-cov>=4.1.0
