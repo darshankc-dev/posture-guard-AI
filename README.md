@@ -13,7 +13,7 @@
 
 ## 🔗 Live Deployed Application
 
-- **Live Deployed App:** [https://ais-pre-d6xhkfmmpnvvyqfs6sygai-183813793738.asia-southeast1.run.app](https://ais-pre-d6xhkfmmpnvvyqfs6sygai-183813793738.asia-southeast1.run.app)
+- **Live Deployed App:** https://postureguard-ai-desktop-posture-monitor.ai.studio
 
 ---
 
